@@ -1,0 +1,145 @@
+[
+  {
+    "name": ["Under", "Cat"],
+    "weapon": "weapon_molotov",
+    "position": [-1040.1392822266, 222.09934997559, -359.96875],
+    "viewangles": [-21.340026855469, -102.61978149414]
+  },
+  {
+    "name": ["Palace", "A Boxes"],
+    "weapon": "weapon_hegrenade",
+    "position": [21.079248428345, -2235.9873046875, -39.96875],
+    "viewangles": [-3.6726360321045, 15.840166091919],
+    "grenade": {
+      "run": 6,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Connector", "Chair"],
+    "weapon": "weapon_hegrenade",
+    "position": [-709.89996337891, -1027.7264404297, -215.96875],
+    "viewangles": [1.0002596378326, 73.770202636719],
+    "grenade": {
+      "run": 58,
+      "recovery_jump": true,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Stair", "Opposite"],
+    "weapon": "weapon_molotov",
+    "position": [-543.83294677734, -1490.1872558594, -39.981033325195],
+    "viewangles": [-15.734605789185, -22.068256378174],
+    "grenade": {
+      "run": 4,
+      "recovery_yaw": 43,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Palace", "Near Ladder"],
+    "weapon": "weapon_molotov",
+    "position": [909.31793212891, -2204.4560546875, -39.96875],
+    "viewangles": [-6.5899076461792, -168.69445800781],
+    "grenade": {
+      "run": 5,
+      "recovery_yaw": 0
+    }
+  },
+  {
+    "name": ["Palace", "Near Ladder"],
+    "weapon": "weapon_molotov",
+    "position": [449.45428466797, -2013.9556884766, -39.96875],
+    "viewangles": [-0.3100366294384, -124.33323669434],
+    "grenade": {
+      "run": 10,
+      "recovery_yaw": 180
+    }
+  },
+  {
+    "name": ["Palace", "Near Ladder"],
+    "weapon": "weapon_hegrenade",
+    "position": [1039.9719238281, -2176.5803222656, -39.96875],
+    "viewangles": [-5.5551481246948, -168.23536682129],
+    "grenade": {
+      "run": 56,
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["Palace", "Near Ladder"],
+    "weapon": "weapon_hegrenade",
+    "position": [435.18792724609, -2018.9520263672, -39.96875],
+    "viewangles": [-3.6078457832336, -123.33211517334],
+    "grenade": {
+      "run": 13,
+      "recovery_yaw": 180,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["Ramp Down", "Ramp Up"],
+    "weapon": "weapon_molotov",
+    "position": [613.26867675781, -1466.8171386719, -263.48114013672],
+    "viewangles": [-11.779001235962, -128.55848693848],
+    "grenade": {
+      "run": 2,
+      "recovery_yaw": 180,
+      "recovery_jump": true
+    }
+  },
+  {
+    "name": ["CT Start", "1W"],
+    "weapon": "weapon_molotov",
+    "position": [-1323.4794921875, -2460.8364257813, -201.14691162109],
+    "viewangles": [3.0097754001617, 107.78187561035],
+    "grenade": {
+      "recovery_yaw": -90
+    }
+  },
+  {
+    "name": ["Truck", "Kitchen"],
+    "weapon": "weapon_molotov",
+    "position": [-2284.06640625, 816.95758056641, -118.73539733887],
+    "viewangles": [-13.25944519043, -69.98779296875]
+  },
+  {
+    "name": ["Lower Ladder", "Upper Ladder"],
+    "weapon": "weapon_molotov",
+    "position": [150.90975952148, -1914.0438232422, -167.96875],
+    "viewangles": [-4.7934560775757, -107.02268218994],
+    "grenade": {
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Ramp", "Palace A Exit"],
+    "weapon": "weapon_molotov",
+    "position": [99.987373352051, -1418.017578125, -175.96875],
+    "viewangles": [-17.718341827393, -96.877021789551],
+    "grenade": {
+      "recovery_yaw": 90
+    }
+  },
+  {
+    "name": ["Site A", "Palace A Exit"],
+    "weapon": "weapon_molotov",
+    "position": [-401.60073852539, -2014.6860351563, -179.96875],
+    "viewangles": [-24.263315200806, -21.966962814331]
+  },
+  {
+    "name": ["T Ramp", "Stairs"],
+    "weapon": "weapon_molotov",
+    "position": [496.70852661133, -1639.5307617188, -260.32763671875],
+    "viewangles": [0.8167023062706, 169.92681884766],
+    "grenade": {
+      "run": 20,
+      "recovery_jump": true,
+      "recovery_yaw": 90,
+      "jump": true
+    },
+    "duck": true
+  }
+]
